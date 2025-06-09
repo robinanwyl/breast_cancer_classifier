@@ -1,5 +1,6 @@
 # breast_cancer_classifier
-BENG 203/CSE 283 SP25 Final Project
+**BENG 203/CSE 283 SP25 Final Project**
+
 Group 3: Robin Anwyl, Krithika Iyer, Maahi Shah
 
 The goal of this project is to train a breast cancer classifier to classify cancer vs. non-cancer samples from Zhou et al (2019). We trained and compared performance of several classifiers (support vector machine, random forest, and multi-layer perceptron), leveraging biology-inspired approaches for feature selection (regulons and commercial breast cancer gene panels) and taking steps to minimize overfitting.
